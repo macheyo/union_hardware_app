@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "959199051103",
+    "firebase_url": "https://union-hardware-app.firebaseio.com",
+    "project_id": "union-hardware-app",
+    "storage_bucket": "union-hardware-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959199051103:android:0aaa2e65456b70eff80aea",
+        "android_client_info": {
+          "package_name": "com.footprintcreative.union_hardware_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959199051103-oats4hc3flpap4a25fb5bd5p26a1elvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnkffuYqw-aQNFs7wUrqjpU1GfeaKNf10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959199051103-oats4hc3flpap4a25fb5bd5p26a1elvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
